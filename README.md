@@ -27,3 +27,16 @@ Software Developer at **Red Hat**, engineering **AutoML** and **AutoRAG** capabi
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/mateusz-szewczyk-dev?cardType=level-alternate&theme=github-dark&preferLogin=false" alt="Mateusz's Stats" />
   </a>
 </p>
+
+---
+
+### 🌐 Open Source & GenAI Ecosystem
+
+I maintain a dedicated secondary profile for upstream open-source work: **[@MateuszOssGit](https://github.com/MateuszOssGit)** 🚀
+
+Upstream contributions across LLM orchestration, agentic frameworks, and AI runtime tooling:
+- **LangChain** & **langchain_ibm**
+- **LlamaIndex**
+- **CrewAI**
+- **LiteLLM**
+- **Langflow**
