@@ -1,6 +1,6 @@
 # Hi there, I'm Mateusz 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=EE0000&width=560&lines=Python+Software+Developer+%40+Red+Hat;AutoML+%26+AutoRAG+%40+Red+Hat+OpenShift+AI;Building+intelligent+enterprise+tooling)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=EE0000&width=560&lines=Software+Engineer+%40+Red+Hat;AutoML+%26+AutoRAG+%40+Red+Hat+OpenShift+AI;Building+intelligent+enterprise+tooling)](https://git.io/typing-svg)
 
 Software Developer at **Red Hat**, engineering **AutoML** and **AutoRAG** capabilities for **Red Hat OpenShift AI (RHOAI)**.
 
