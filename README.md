@@ -10,7 +10,7 @@ Software Developer at **Red Hat**, engineering **AutoML** and **AutoRAG** capabi
 - 🔭 **Current Focus:** AutoML pipelines & AutoRAG architectures in Red Hat OpenShift AI (RHOAI)
 - 🤖 **AI & Infrastructure:** Retrieval-Augmented Generation, ML workflow automation, Linux / RHEL
 - 🛠️ **Tech Stack:** Python, PyTorch, C/C++, Kubernetes, Docker, Git
-- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/TWOJ-LINK) • [Email](mailto:twoj-email@redhat.com)
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/mateusz-szewczyk-258b1a251/) • [Email](mailto:mszewczy@redhat.com)
 
 ---
 
